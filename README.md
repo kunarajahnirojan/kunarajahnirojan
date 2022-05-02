@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anshalon Kunarajah Stany Nirojan
-- 👀 I’m a Software Engineering Intern
-- 🌱 I’m currently learning React, React Native, Node, Express, Vue,  Python, Django
+- 👀 I’m an Associate Software Engineer
+- 🌱 I’m currently learning React, React Native, Node, Express, Vue, Java, Springboot
 - 📫 You Can Reach Me On : Kunarajahnirojan@gmail.com
