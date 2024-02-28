@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Nirojan
-- 👀 I’m a Software Engineer
-- 🌱 I’m currently learning Dotnet and Python
-- 📫 You Can Reach Me On : Kunarajahnirojan@gmail.com
+👋 Hey there, I'm Nirojan – your friendly neighborhood Software Engineer, here to sprinkle some coding magic! You'll often find me immersed in the realms of React, React Native, Vue, Next, Node, Angular, JavaScript, and TypeScript. Oh, and I'm currently on an adventure, exploring the mysterious lands of Dotnet and Python.
+🚀 Feel free to drop me a line at Kunarajahnirojan@gmail.com – I promise, I don't byte... too much! 😉 Let's code up some laughter and debug life's quirks together!
