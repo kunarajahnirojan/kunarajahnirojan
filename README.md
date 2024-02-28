@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nirojan
-- 👀 I’m an Associate Software Engineer
-- 🌱 I’m currently learning React, TypeScript, Next, React Native, Vue, Node, Express
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently learning Dotnet and Python
 - 📫 You Can Reach Me On : Kunarajahnirojan@gmail.com
